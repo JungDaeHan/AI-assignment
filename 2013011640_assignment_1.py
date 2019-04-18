@@ -1,3 +1,13 @@
+/* 
+
+***************************
+
+you have to edit your own path about the maze.txt 
+
+***************************
+
+*/
+
 import math
 
 direction = [[1,0],[-1,0],[0,1],[0,-1]]
